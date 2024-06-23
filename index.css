@@ -1,0 +1,104 @@
+body{
+    text-align: center;
+}
+
+.btn{
+    height : 200px;
+    width: 200px;
+    border-radius:20%;
+    border:10px solid black;
+    margin: 2.5rem;
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+
+.yellow{
+    background-color: rgb(232, 232, 42);
+}
+.red{
+    background-color: rgb(206, 31, 31);
+}
+.purple{
+    background-color: rgb(204, 29, 204);
+}
+.green{
+    background-color: rgb(27, 202, 27);
+}
+.comflash{
+    background-color: aliceblue;
+}
+.userflash{
+    background-color: rgb(151, 137, 211);
+}
+
+
+
+
+/* h1{
+    text-align: center;
+}
+h3{
+    margin: 0 0 5% 0;
+    text-align: center;
+}
+
+
+#main
+{
+    margin: 0% 0% 0% 34%;
+    width: 100%;
+}
+#row1{
+    display: flex;
+    align-items: center;
+    width: 50%;
+    margin: 2%;
+}
+#row2{
+    display: flex;
+    align-content: center;
+    width: 50%;
+    margin: 2%;
+}
+.common{
+    height: 5vh;
+}
+#col1{
+    justify-content: center;
+    width: 25%;
+    height: 20vh;
+    background-color: rgb(44, 69, 197);
+    margin-right: 4%;
+    border-radius: 20%;
+    border: 1vh solid black;
+}
+#col2{
+    width: 25%;
+    height: 20vh;
+    background-color: rgb(191, 195, 55);
+    border-color: black;
+    border-radius: 20%;
+    border: 1vh solid black;
+}
+
+#col3{
+    background-color: rgb(188, 36, 36);
+    
+    margin: 0% 4% 0% 0%;
+    width: 25%;
+    height: 20vh;
+    border-radius: 20%;
+    border: 1vh solid black;
+}
+#col4{
+    background-color: rgb(36, 188, 54);
+    width: 25%;
+    height: 20vh;
+    border-radius: 20%;
+    border: 1vh solid black;
+} */
+
+
